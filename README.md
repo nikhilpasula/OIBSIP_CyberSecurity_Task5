@@ -1,8 +1,8 @@
-\# Task 5 - Research Report on Social Engineering Attacks
+# Task 5 - Research Report on Social Engineering Attacks
 
 
 
-\## Objective
+## Objective
 
 
 
@@ -10,41 +10,39 @@ To research and analyze common social engineering attacks, their impact on organ
 
 
 
-\## Topics Covered
+## Topics Covered
 
 
 
-\* Phishing Attacks
+* Phishing Attacks
 
-\* Pretexting Attacks
+* Pretexting Attacks
 
-\* Baiting Attacks
-
-
-
-\## Files Included
+* Baiting Attacks
 
 
 
-\* social\_engineering\_report.md
+## Files Included
 
 
 
-\## Key Learning Outcomes
+* social\_engineering\_report.md
+
+
+## Key Learning Outcomes
 
 
 
-\* Understanding how social engineering attacks exploit human behavior
+* Understanding how social engineering attacks exploit human behavior
+* Learning the impact of phishing, pretexting, and baiting attacks
 
-\* Learning the impact of phishing, pretexting, and baiting attacks
+* Studying real-world case studies
 
-\* Studying real-world case studies
-
-\* Identifying effective prevention and awareness strategies
-
+* Identifying effective prevention and awareness strategies
 
 
-\## Conclusion
+
+## Conclusion
 
 
 
