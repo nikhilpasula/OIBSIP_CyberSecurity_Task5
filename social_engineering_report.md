@@ -1,8 +1,8 @@
-\# Research Report on Social Engineering Attacks
+# Research Report on Social Engineering Attacks
 
 
 
-\## Introduction
+## Introduction
 
 
 
@@ -14,15 +14,15 @@ This report examines three common social engineering attacks: phishing, pretexti
 
 
 
-\---
+---
 
 
 
-\## 1. Phishing Attacks
+## 1. Phishing Attacks
 
 
 
-\### What is Phishing?
+### What is Phishing?
 
 
 
@@ -30,7 +30,7 @@ Phishing is a cyberattack in which attackers impersonate trusted entities throug
 
 
 
-\### How It Works
+### How It Works
 
 
 
@@ -38,23 +38,23 @@ Attackers send fraudulent emails or messages that appear legitimate. Victims are
 
 
 
-\### Impact
+### Impact
 
 
 
-\* Credential theft
+* Credential theft
 
-\* Financial losses
+* Financial losses
 
-\* Identity theft
+* Identity theft
 
-\* Malware infections
+* Malware infections
 
-\* Data breaches
+* Data breaches
 
 
 
-\### Real-World Case Study
+### Real-World Case Study
 
 
 
@@ -62,31 +62,31 @@ In 2016, attackers used phishing emails to compromise employee accounts at a maj
 
 
 
-\### Prevention
+### Prevention
 
 
 
-\* Verify email senders before responding
+* Verify email senders before responding
 
-\* Avoid clicking suspicious links
+* Avoid clicking suspicious links
 
-\* Enable Multi-Factor Authentication (MFA)
+* Enable Multi-Factor Authentication (MFA)
 
-\* Conduct regular security awareness training
+* Conduct regular security awareness training
 
-\* Use email filtering and anti-phishing tools
-
-
-
-\---
+* Use email filtering and anti-phishing tools
 
 
 
-\## 2. Pretexting Attacks
+---
 
 
 
-\### What is Pretexting?
+## 2. Pretexting Attacks
+
+
+
+### What is Pretexting?
 
 
 
@@ -94,7 +94,7 @@ Pretexting is a social engineering technique where attackers create a fabricated
 
 
 
-\### How It Works
+### How It Works
 
 
 
@@ -102,21 +102,21 @@ The attacker assumes a false identity, such as a bank representative, IT support
 
 
 
-\### Impact
+### Impact
 
 
 
-\* Unauthorized access to systems
+* Unauthorized access to systems
 
-\* Exposure of confidential information
+* Exposure of confidential information
 
-\* Financial fraud
+* Financial fraud
 
-\* Identity theft
+* Identity theft
 
 
 
-\### Real-World Case Study
+### Real-World Case Study
 
 
 
@@ -124,29 +124,29 @@ Several organizations have experienced data breaches when attackers impersonated
 
 
 
-\### Prevention
+### Prevention
 
 
 
-\* Verify identities before sharing information
+* Verify identities before sharing information
 
-\* Establish strict verification procedures
+* Establish strict verification procedures
 
-\* Train employees to recognize suspicious requests
+* Train employees to recognize suspicious requests
 
-\* Implement access control policies
-
-
-
-\---
+* Implement access control policies
 
 
 
-\## 3. Baiting Attacks
+---
 
 
 
-\### What is Baiting?
+## 3. Baiting Attacks
+
+
+
+### What is Baiting?
 
 
 
@@ -154,7 +154,7 @@ Baiting is a social engineering attack that exploits human curiosity by offering
 
 
 
-\### How It Works
+### How It Works
 
 
 
@@ -162,21 +162,21 @@ Attackers leave infected USB drives or advertise free downloads. When victims in
 
 
 
-\### Impact
+### Impact
 
 
 
-\* Malware infections
+* Malware infections
 
-\* System compromise
+* System compromise
 
-\* Data theft
+* Data theft
 
-\* Network infiltration
+* Network infiltration
 
 
 
-\### Real-World Case Study
+### Real-World Case Study
 
 
 
@@ -184,25 +184,25 @@ Security researchers have demonstrated that employees often plug unknown USB dev
 
 
 
-\### Prevention
+### Prevention
 
 
 
-\* Avoid connecting unknown USB devices
+* Avoid connecting unknown USB devices
 
-\* Restrict removable media access
+* Restrict removable media access
 
-\* Install endpoint security solutions
+* Install endpoint security solutions
 
-\* Conduct employee awareness training
-
-
-
-\---
+* Conduct employee awareness training
 
 
 
-\## Impact of Social Engineering on Organizations
+---
+
+
+
+## Impact of Social Engineering on Organizations
 
 
 
@@ -210,17 +210,17 @@ Social engineering attacks can result in:
 
 
 
-\* Financial losses
+* Financial losses
 
-\* Data breaches
+* Data breaches
 
-\* Regulatory penalties
+* Regulatory penalties
 
-\* Reputational damage
+* Reputational damage
 
-\* Loss of customer trust
+* Loss of customer trust
 
-\* Operational disruptions
+* Operational disruptions
 
 
 
@@ -228,15 +228,15 @@ Since humans are often the weakest link in cybersecurity, attackers frequently t
 
 
 
-\---
+---
 
 
 
-\## Best Practices for Prevention
+## Best Practices for Prevention
 
 
 
-\### Security Awareness Training
+### Security Awareness Training
 
 
 
@@ -244,7 +244,7 @@ Regular employee training helps individuals recognize suspicious emails, calls, 
 
 
 
-\### Multi-Factor Authentication (MFA)
+### Multi-Factor Authentication (MFA)
 
 
 
@@ -252,7 +252,7 @@ MFA reduces the risk of compromised credentials being used by attackers.
 
 
 
-\### Verification Procedures
+### Verification Procedures
 
 
 
@@ -260,7 +260,7 @@ Organizations should require identity verification before sensitive information 
 
 
 
-\### Strong Security Policies
+### Strong Security Policies
 
 
 
@@ -268,7 +268,7 @@ Clear policies help employees respond appropriately to unusual requests.
 
 
 
-\### Incident Reporting
+### Incident Reporting
 
 
 
@@ -276,11 +276,11 @@ Employees should be encouraged to report suspicious activity immediately.
 
 
 
-\---
+---
 
 
 
-\## Conclusion
+## Conclusion
 
 
 
